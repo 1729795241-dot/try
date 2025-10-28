@@ -1,0 +1,30 @@
+# PDF处理
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# LLM API调用
+openai>=1.0.0  # 用于DeepSeek和通义千问（OpenAI兼容）
+google-generativeai>=0.3.0  # 用于Gemini
+requests>=2.31.0
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 可视化
+matplotlib>=3.7.0
+plotly>=5.0.0
+seaborn>=0.12.0
+
+# Excel处理
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
+
+# Web应用
+streamlit>=1.28.0
+
+# 工具库
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+Pillow>=9.0.0
+
